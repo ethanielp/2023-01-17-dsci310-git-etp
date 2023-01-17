@@ -1,4 +1,5 @@
-# 2023-01-17-dsci310-git-etp
+# 2023-01-17: dsci 310 git
+
 test repo for class
 
 - `git clone <URL>`: takes whats on github and does a one time download to your computer
@@ -6,3 +7,6 @@ test repo for class
 - `git commit`: create the commit (aka snapshot), can add -m "" to add message in vivo
 
 - `git status`: tells you whats going on in the repo
+
+- `git push <where> <what>`: take local commits on `<what>`, and send it to `<where>`
+    - e.g., `git pull orgin main`
